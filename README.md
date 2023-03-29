@@ -15,4 +15,7 @@
 - We can use Express to customise and use it as per our needs. 
 - It is very fast to link with databases like MySQL, MongoDB etc. 
 
-Mongo DB is the database 
+
+
+JavaScript can only work in a web browser.
+Node JS is an enviroment, which means the JS can run outside the browser - gives you the power to create applications. 
