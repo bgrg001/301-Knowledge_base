@@ -19,3 +19,19 @@
 
 JavaScript can only work in a web browser.
 Node JS is an enviroment, which means the JS can run outside the browser - gives you the power to create applications. 
+
+## Class-01
+
+Compontent based architecture: using the framework of components to create a webpage.
+- Every component will have the following characteristics: imports, styles, functions and export
+- Advantages of using them: more effecient, more consistent, ensures component use-ability, easier for debugging
+Charactersitics of components: independent, encapsulated, reuseable, replacable, not context specific 
+
+Import './App.CSS'; 
+
+Function Header(){
+return <h1>header</header> }
+
+export default Header; 
+
+You put the above that you created in the index.js file by making components and then putting in the const. 
