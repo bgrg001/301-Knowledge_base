@@ -30,7 +30,7 @@ Charactersitics of components: independent, encapsulated, reuseable, replacable,
 Import './App.CSS'; 
 
 Function Header(){
-return <h1>header</header> }
+return < h1 >header</ heade r> }
 
 export default Header; 
 
