@@ -35,3 +35,5 @@ return < h1 >header</ heade r> }
 export default Header; 
 
 You put the above that you created in the index.js file by making components and then putting in the const. 
+
+## Class-01.1
