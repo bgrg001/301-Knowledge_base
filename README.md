@@ -37,3 +37,6 @@ export default Header;
 You put the above that you created in the index.js file by making components and then putting in the const. 
 
 ## Class-01.1
+
+## Class-02
+- Here I built a react app and then ran useState from react to evoke information through the function.
