@@ -1,4 +1,14 @@
 # 301-Knowledge_base
+
+Knowledge stuff
+
+== is kinda true so "1" and 1 is true
+=== strictly true "1" and 1 is fale as one is a string and one is a number 
+!== not equal to
+=== equal to
+&& if both are true in the statement 
+|| or operator either this or the other in the statement must b true 
+
 ## What is Express JS?
 - Express is a node js web application framework that provides broad features for building web and mobile applications. 
 - It is used to build a single page, multipage, and hybrid web application. 
